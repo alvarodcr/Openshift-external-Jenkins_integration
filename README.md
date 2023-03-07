@@ -24,7 +24,8 @@ Se utilizará Docker para levantar Jenkins y otros servicios con los que queramo
 el cluster de OCP.
 
 
-## TODO
+# TODO
 
 1. Ficheros microservicios para crear un entorno de pruebas
-2. Integraciíon jenkins sobre un docker local.
+2. Integración CI/CD con Jenkins sobre un Docker local.
+3. Integración de algún tipo de monitorización.
