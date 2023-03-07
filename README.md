@@ -22,3 +22,9 @@ Adaptar los nucleos y la memoria asignada, según disponibilidad del equipo.
 
 Se utilizará Docker para levantar Jenkins y otros servicios con los que queramos simular una infraestructura de servicios independientes pero que esten integrados con 
 el cluster de OCP.
+
+
+## TODO
+
+1. Ficheros microservicios para crear un entorno de pruebas
+2. Integraciíon jenkins sobre un docker local.
