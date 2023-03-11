@@ -28,6 +28,8 @@ Adaptar los nucleos y la memoria asignada, según disponibilidad del equipo.
 ## Docker Desktop
 
 Se utilizará Docker para levantar Jenkins y otros servicios con los que queramos simular una infraestructura de servicios independientes pero que esten integrados con 
-el cluster de OCP.
+el cluster de OCP:
 
 [Instalación de Docker en entornos Windows](https://docs.docker.com/desktop/install/windows-install/)
+
+De forma alternativa se puede valorar usar [Podman](https://podman.io/whatis.html).
