@@ -40,7 +40,7 @@ Una vez descargado y configurado ejecutar:
 
 `$ minishift start`
 
-1-hyper-v.png
+![1-hyper-v.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/1-hyper-v.png)
 
 <br />
 
@@ -65,15 +65,15 @@ Una vez descargado y configurado ejecutar:
 
 4.3 Ir a http://localhost:8080 y desbloquear Jenkins con el token obtenido:
 
-2-jenkins-unlock.png
+![2-jenkins-unlock.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/2-jenkins-unlock.png)
 
 4.4 Instalar los plugins recomendados:
 
-3-customize-jenkins.png
+![3-customize-jenkins.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/3-customize-jenkins.png)
 
 4.5 Crear usuario:
 
-4-crear-usuario-jenkins.png
+![4-crear-usuario-jenkins.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/4-crear-usuario-jenkins.png)
 
 <br />
 
@@ -81,17 +81,17 @@ Una vez descargado y configurado ejecutar:
 
 Instalar plugin desde Panel de Control > Administrar Jenkins > Plugins:
 
-5-ocp-client-plugin.png
+![5-ocp-client-plugin.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/5-ocp-client-plugin.png)
 
 Ir a Panel de Control > Administrar Jenkins > System > OpenShift Client Plugin y configurar el cluster Minishift:
 
-6-ocp-client-config.png
+![6-ocp-client-config.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/6-ocp-client-config.png)
 
-7-ocp-client-config.png
+![7-ocp-client-config.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/7-ocp-client-config.png)
 
 Configurar el token
 
-8-ocp-client-config.png
+![8-ocp-client-config.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/8-ocp-client-config.png)
 
-7-ocp-client-config.png
+![9-ocp-client-config.png](https://github.com/VictorGil-Ops/Openshift-external-Jenkins_integration/blob/main/images/9-ocp-client-config.png)
 
