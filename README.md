@@ -48,9 +48,9 @@ Una vez descargado y configurado ejecutar:
 
 4.1 Construcción del contenedor:
 
-`$ podman build .
+`$ podman build .`
 
-$ podman volume create jenkins-data`
+`$ podman volume create jenkins-data`
 
 `$ podman container run --name jenkins --rm --detach \
 --privileged --publish 8080:8080 \
